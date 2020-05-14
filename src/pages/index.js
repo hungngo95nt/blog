@@ -7,28 +7,27 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = `hungngo95nt`
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`blog`, `gatsby`, `react`, `hungngo95nt`, `netlify`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        <img style={{ margin: 0 }} src="./deno.jpg" alt="Deno" />
         <h1>
-          Hey people{" "}
+          Hey Guys{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
         <p>Welcome to Hùng Ngô website. You are on your home page.</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          This is my blog develop using Gatsby and Netlify CMS.
         </p>
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Go to Blogs</Button>
         </Link>
       </Layout>
     )
