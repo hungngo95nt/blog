@@ -10,7 +10,8 @@ Một số ngôn ngữ thì dùng thuật ngữ là Map, một số khác thì d
 Map chia làm 2 loại :
 -> Dựa trên red-black-tree
 -> Dựa trên hashtable
-# HashMap là kiểu thể hiện của Map dựa trên hashtable
+# HashMap 
+HashMap là kiểu thể hiện của Map dựa trên hashtable
 HashMap gồm 3 khái niệm chính gồm : hash function, hash value, Bucket.
 
 
