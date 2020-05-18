@@ -22,7 +22,7 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to Hùng Ngô website. You are on your home page.</p>
+        <p>Welcome to Hùng Ngô website.</p>
         <p>
           This is my blog develop using Gatsby and Netlify CMS.
         </p>
