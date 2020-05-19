@@ -88,7 +88,7 @@ class Solution:
         for num in nums:
             aDict[num]+=1
         print(aDict)
-# solution using dictionary
+# solution using Bit Logic
 import collections
 class Solution:
     def singleNumber(self, nums: List[int]) ->int:
