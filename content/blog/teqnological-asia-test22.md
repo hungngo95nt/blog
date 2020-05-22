@@ -1,7 +1,7 @@
 ---
-path: interview/Teqnological Asia-test22
+path: interview/Test
 date: 2020-05-22T09:37:46.383Z
-title: Teqnological Asia Test22
+title: Bài Interview Test Công Ty TechABC ở Phổ Quang
 description: Note lại bài interview test fresher 22/05/2020
 ---
 # leetcode 338 - Counting Bits
